@@ -8,6 +8,7 @@ import { Bai1Component } from './bai1/bai1.component';
 import { Bai7Component } from './bai7/bai7.component';
 import { Bai6Component } from './bai6/bai6.component';
 import { Bai3Component } from './bai3/bai3.component';
+import { Bai4Component } from './bai4/bai4.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { Bai3Component } from './bai3/bai3.component';
     Bai1Component,
     Bai7Component,
     Bai6Component,
-    Bai3Component
+    Bai3Component,
+    Bai4Component
   ],
   imports: [
     BrowserModule,
